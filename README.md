@@ -1,7 +1,7 @@
 #  Spark Scala Docker Environment
 
 
-Entorno **Docker** para desarrollo y análisis de datos con **Apache Spark** configurado con para realizar análisis de datos utilizando **Scala**.
+Entorno **Docker** para desarrollo y análisis de datos con **Apache Spark** configurado con para **Scala**.
 
 ---
 
